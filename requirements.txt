@@ -1,5 +1,4 @@
-python
-streamlit=='1.21.0'
+streamlit
+joblib
 numpy
 deep_translator
-joblib=='1.6.1'
