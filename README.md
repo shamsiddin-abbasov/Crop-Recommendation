@@ -8,6 +8,7 @@ Crop Recommendation is a web app that helps farmers determine which crops are be
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Program View](#program-view)
+- [Resources](#resources)
 - [License](#license)
 
 ## Installation
@@ -74,6 +75,10 @@ git push origin feature_branch_name
 <p align="center">
     <img src="Images/Streamlit App.jpg" alt="Streamlit App">
 </p>
+
+## Resources
+
+Model trained on Machine Learning Algorithms. Dataset used for this project is at &copy;[Kaggle](https://kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 
 ## License
 
