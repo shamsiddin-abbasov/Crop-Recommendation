@@ -1,4 +1,4 @@
-python=='3.10.11'
+python
 streamlit=='1.21.0'
 numpy
 deep_translator
