@@ -16,7 +16,7 @@ Crop Recommendation is a web app that helps farmers determine which crops are be
 1. Clone the repository
 
 ```
-git clone https://github.com/your_username/crop-recommendation.git
+git clone https://github.com/shamsiddin-abbasov/crop-recommendation.git
 ```
 
 2. Navigate into the project directory
